@@ -1,0 +1,39 @@
+{
+  "name": "mgm-test-task",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2": "19.2.56",
+    "@syncfusion/ej2-base": "^19.2.55",
+    "@syncfusion/ej2-buttons": "^19.2.55",
+    "@syncfusion/ej2-file-utils": "^19.2.55",
+    "@syncfusion/ej2-grids": "19.2.56",
+    "@syncfusion/ej2-react-base": "19.2.55",
+    "@syncfusion/ej2-react-grids": "19.2.56",
+    "@syncfusion/ej2-react-treegrid": "19.2.56",
+    "@syncfusion/ej2-react-treemap": "19.2.55",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
